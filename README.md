@@ -27,3 +27,7 @@ Michael Beat - GitHub Manager/Backend
 ## Mock-up
 
 ![Mock-up](https://user-images.githubusercontent.com/38300070/48158943-85f37a00-e299-11e8-914c-07eeaa850425.JPG)
+
+## CQ Summary
+
+*This app was made to make an aspect of recycling more efficient by linking local coffee shops with people in and around the Austin area    to pick up the grounds and put them to use. It helps both the coffee shops as well as patrons in Austin and in the surrounding area since businesses don't have to relay on expensive compost retrieving companies. If an individual wants to get grounds they can use the app and that way, both parties save money. 
